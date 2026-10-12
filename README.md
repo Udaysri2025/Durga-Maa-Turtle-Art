@@ -35,9 +35,12 @@ The program uses `Durga Maa.jpg` as its input image and draws the detected conto
 ## 📁 Project Structure
 
 ```text
-durga-maa-turtle-art/
+
+Durga-Maa-Turtle-Art/
 ├── Durga_Maa_turtle.py
 ├── Durga Maa.jpg
+├── screenshots/
+│   └── Durga_Maa_preview.png
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -60,11 +63,11 @@ Extract the downloaded ZIP file and open the project folder.
 Alternatively, clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/durga-maa-turtle-art.git
-cd durga-maa-turtle-art
+git clone https://github.com/Udaysri2025/Durga-Maa-Turtle-Art.git
+cd Durga-Maa-Turtle-Art
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `Udaysri2025` with your GitHub username.
 
 ### 2. Install dependencies
 
