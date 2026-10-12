@@ -6,6 +6,10 @@ Transform a reference image of Durga Maa into a black-and-white contour drawing 
 
 This project combines image processing, contour detection, and computer graphics to recreate intricate devotional artwork through a live drawing animation.
 
+## 🖼️ Preview
+
+![Durga Maa Turtle Art](screenshots/Durga_Maa_preview.png)
+
 ## ✨ Features
 
 * **Image Processing:** Convert the reference image into grayscale and binary formats.
