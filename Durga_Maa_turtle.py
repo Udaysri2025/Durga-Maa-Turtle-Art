@@ -31,7 +31,7 @@ hierarchy = hierarchy[0]
 # Turtle Window Setup
 screen = turtle.Screen()
 screen.setup(width=target_width + 60, height=target_height + 100)
-screen.title("Live Drawing - Durga Maa and Lion (Exact Reference)")
+screen.title("Live Drawing - Durga Maa & Tiger")
 screen.bgcolor("white")
 screen.tracer(5, 0)  # Drawing speed balance: fast yet clearly visible
 
